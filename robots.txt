@@ -1,2 +1,3 @@
 User-agent: *
 Allow:/
+Sitemap: https://smallweb.pages.dev/sitemap.xml
